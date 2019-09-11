@@ -1,3 +1,3 @@
-[ ] Pizza
-[ ] Sushi
-[ ] Burgers
+- Pizza
+- Sushi
+- Burgers
