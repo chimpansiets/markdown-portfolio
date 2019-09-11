@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of myself](https://puu.sh/EfVVb/5a0820766c.png)
